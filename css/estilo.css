@@ -30,3 +30,7 @@ div.gallery {
 .card-img-top {
     max-height: 200px; /* Defina a altura máxima da imagem conforme necessário */
 }
+
+.logo{
+  width: 5em;
+}
