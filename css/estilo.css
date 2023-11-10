@@ -27,9 +27,7 @@ div.gallery {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
-.card-img-top {
-    max-height: 200px; /* Defina a altura máxima da imagem conforme necessário */
-}
+
 
 .logo{
   width: 5em;
